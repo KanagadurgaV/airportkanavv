@@ -14,7 +14,7 @@ This Streamlit web application predicts the approximate flight price based on va
 
 ### Clone the project (requires Git)
 ```bash
-https://github.com/KanagadurgaV/airportkanavv.git
+https://github.com/SPRHackz/Airport_predition.git
 ```
 ## OR 
 ### Download as Zip file 
@@ -24,7 +24,7 @@ https://github.com/KanagadurgaV/airportkanavv.git
 
 ## Navigate to the project directory:
 ```bash
- cd airportkanavv
+ cd Airport_predition
 ```
 
 ## Install the required Python packages:
