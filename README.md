@@ -1,11 +1,10 @@
-<center><h1>Kanagadurga Viswanatha</h1></center>
+# Kanagadurga Viswanatha
 
 # Flight Price Prediction App
 
 This Streamlit web application predicts the approximate flight price based on various input parameters such as airline, source city, departure time, number of stops, arrival time, destination, class, and departure date.
 
 ## Features
-
 - Select the airline, source city, departure time, number of stops, arrival time, destination, class, and departure date.
 - Click the "Get Flight Price" button to predict the approximate flight price.
 - Background image changes based on user input.
@@ -15,13 +14,13 @@ This Streamlit web application predicts the approximate flight price based on va
 
 ### Clone the project (requires Git)
 ```bash
-    https://github.com/KanagadurgaV/airportkanavv.git
+https://github.com/KanagadurgaV/airportkanavv.git
 ```
-
+## OR 
 ### Download as Zip file 
-imge
 
-
+![image](https://github.com/SPRHackz/Airport_predition/assets/115263986/cf0df4b0-d34c-413e-b224-d288df439103)
+### ! Then Extract & Move Into it  
 
 ## Navigate to the project directory:
 ```bash
