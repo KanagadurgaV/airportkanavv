@@ -40,7 +40,7 @@ def load_lottiefile(filepath:str):
 f=[Airline,Source,Depature_Time,Stop,Arrival_Time,Destination,Class,daY_diff]
 if None not in f and button:
     Features=[Airline_dict[Airline],Source_dict[Source],Depature_Time_dict[Depature_Time],Stop_dict[Stop],Arrival_Time_dict[Arrival_Time],Destination_dict[Destination],Class_dict[Class],daY_diff]
-    Model=pickle.load(open('LinearModel.pkl','rb'))
+    Model=pickle.load(open('./airport.pkl','rb'))
     prediction=Model.predict([Features])[0]
     
     st.markdown(f"<h2 style='text-align: center; color: #6A3BFF;'>Happy Traveling!</h1>", unsafe_allow_html=True)
